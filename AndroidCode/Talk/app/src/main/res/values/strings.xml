@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name" translatable="false">Talks</string>
+    <string name="mangHinhChinh_dangnhap">Sign in</string>
+    <string name="manHinhChinh_account">Sign up for free</string>
+    <string name="manHinhChinh_donhaveacc">Don\'t have an account?</string>
+    <string name="login_signin">Sign in</string>
+    <string name="login_password">Password</string>
+    <string name="login_signup">Sign up</string>
+    <string name="signup_username">Username</string>
+    <string name="signup_createacc">Create account</string>
+    <string name="signup_connectfacebook">Connect with Facebook</string>
+    <string name="navigation_drawer_open">Open</string>
+    <string name="navigation_drawer_close">Close</string>
+    <string name="action_settings">Settings</string>
+</resources>

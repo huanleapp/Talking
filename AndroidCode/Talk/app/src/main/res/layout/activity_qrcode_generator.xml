@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+tools:context="com.example.lovemoon.talk.qrcode_generator"
+android:orientation="vertical"
+>
+    <customfonts.MyEditText
+        android:id="@+id/barcodetext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Barcode Text"
+        android:inputType="text"
+        android:textColor="#000"
+        android:background="#f0f0f4"
+        android:padding="12dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:drawableLeft="@drawable/ic_text_shadow"
+        android:drawablePadding="16dp"
+        />
+    <customfonts.MyRegulerText
+        android:id="@+id/barcodetext_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/btnformate"
+        android:layout_marginBottom="5dp"
+        android:layout_marginLeft="70dp"
+        android:layout_marginRight="70dp"
+        android:textAlignment="center"
+        android:padding="14dp"
+        android:gravity="center"
+        android:text="Generator"
+        android:textSize="16dp"
+        android:textColor="#fff"
+        />
+    <ImageView
+        android:id="@+id/barcodeimg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_gravity="center|bottom"
+        android:id="@+id/download1"
+        android:visibility="invisible"
+        >
+        <TextView
+            android:id="@+id/jpg"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:text="JPG"
+            android:textColor="#3997f4"
+            android:textSize="16dp"
+            android:layout_gravity="right"
+            android:gravity="right"
+            android:padding="16dp"/>
+        <TextView
+            android:id="@+id/PNG"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:text="PNG"
+            android:textColor="#3997f4"
+            android:textSize="16dp"
+            android:padding="16dp"/>
+        <TextView
+            android:id="@+id/SVG"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:layout_gravity="left"
+            android:gravity="left"
+            android:text="SVG"
+            android:textColor="#3997f4"
+            android:textSize="16dp"
+            android:padding="16dp"/>
+    </LinearLayout>
+    <customfonts.MyRegulerText
+        android:id="@+id/barcodetext_btn_down"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/btnformate_down"
+        android:layout_marginBottom="5dp"
+        android:layout_marginLeft="70dp"
+        android:layout_marginRight="70dp"
+        android:textAlignment="center"
+        android:padding="14dp"
+        android:gravity="center"
+        android:text="Download"
+        android:textSize="16dp"
+        android:textColor="#fff"
+        android:visibility="invisible"
+        />
+</LinearLayout>

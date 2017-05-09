@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mangHinhChinh_dangnhap">Đăng nhập</string>
+    <string name="manHinhChinh_account">Đăng ký miễn phí</string>
+    <string name="manHinhChinh_donhaveacc">Bạn chưa có tài khoản ư?</string>
+    <string name="login_signin">Đăng nhập</string>
+    <string name="login_password">Mật khẩu</string>
+    <string name="login_signup">Đăng ký</string>
+    <string name="signup_username">Tài khoản</string>
+    <string name="signup_createacc">Tạo tài khoản</string>
+    <string name="signup_connectfacebook">Kết nối với Facebook</string>
+    <string name="navigation_drawer_open">Mở</string>
+    <string name="navigation_drawer_close">Đóng</string>
+    <string name="action_settings">Thiết lập</string>
+</resources>
