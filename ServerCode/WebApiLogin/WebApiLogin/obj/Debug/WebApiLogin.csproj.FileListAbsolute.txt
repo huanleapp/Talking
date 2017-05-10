@@ -1,0 +1,141 @@
+D:\Long\DuAn_Vu\WebApiLogin\WebApiLogin\bin\WebApiLogin.dll
+D:\Long\DuAn_Vu\WebApiLogin\WebApiLogin\bin\WebApiLogin.pdb
+D:\Long\DuAn_Vu\WebApiLogin\WebApiLogin\bin\Antlr3.Runtime.dll
+D:\Long\DuAn_Vu\WebApiLogin\WebApiLogin\bin\EntityFramework.dll
+D:\Long\DuAn_Vu\WebApiLogin\WebApiLogin\bin\Microsoft.Data.Edm.dll
+D:\Long\DuAn_Vu\WebApiLogin\WebApiLogin\bin\Microsoft.Data.OData.dll
+D:\Long\DuAn_Vu\WebApiLogin\WebApiLogin\bin\Microsoft.Web.Infrastructure.dll
+D:\Long\DuAn_Vu\WebApiLogin\WebApiLogin\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Long\DuAn_Vu\WebApiLogin\WebApiLogin\bin\Newtonsoft.Json.dll
+D:\Long\DuAn_Vu\WebApiLogin\WebApiLogin\bin\System.Net.Http.Formatting.dll
+D:\Long\DuAn_Vu\WebApiLogin\WebApiLogin\bin\System.Spatial.dll
+D:\Long\DuAn_Vu\WebApiLogin\WebApiLogin\bin\System.Web.Helpers.dll
+D:\Long\DuAn_Vu\WebApiLogin\WebApiLogin\bin\System.Web.Http.dll
+D:\Long\DuAn_Vu\WebApiLogin\WebApiLogin\bin\System.Web.Http.OData.dll
+D:\Long\DuAn_Vu\WebApiLogin\WebApiLogin\bin\System.Web.Http.Tracing.dll
+D:\Long\DuAn_Vu\WebApiLogin\WebApiLogin\bin\System.Web.Http.WebHost.dll
+D:\Long\DuAn_Vu\WebApiLogin\WebApiLogin\bin\System.Web.Mvc.dll
+D:\Long\DuAn_Vu\WebApiLogin\WebApiLogin\bin\System.Web.Optimization.dll
+D:\Long\DuAn_Vu\WebApiLogin\WebApiLogin\bin\System.Web.Providers.dll
+D:\Long\DuAn_Vu\WebApiLogin\WebApiLogin\bin\System.Web.Razor.dll
+D:\Long\DuAn_Vu\WebApiLogin\WebApiLogin\bin\System.Web.WebPages.Deployment.dll
+D:\Long\DuAn_Vu\WebApiLogin\WebApiLogin\bin\System.Web.WebPages.dll
+D:\Long\DuAn_Vu\WebApiLogin\WebApiLogin\bin\System.Web.WebPages.Razor.dll
+D:\Long\DuAn_Vu\WebApiLogin\WebApiLogin\bin\WebGrease.dll
+D:\Long\DuAn_Vu\WebApiLogin\WebApiLogin\bin\Newtonsoft.Json.xml
+D:\Long\DuAn_Vu\WebApiLogin\WebApiLogin\bin\System.Net.Http.Formatting.xml
+D:\Long\DuAn_Vu\WebApiLogin\WebApiLogin\bin\System.Web.Http.xml
+D:\Long\DuAn_Vu\WebApiLogin\WebApiLogin\bin\System.Web.Http.OData.xml
+D:\Long\DuAn_Vu\WebApiLogin\WebApiLogin\bin\System.Web.Http.Tracing.xml
+D:\Long\DuAn_Vu\WebApiLogin\WebApiLogin\bin\System.Web.Http.WebHost.xml
+D:\Long\DuAn_Vu\WebApiLogin\WebApiLogin\bin\EntityFramework.xml
+D:\Long\DuAn_Vu\WebApiLogin\WebApiLogin\bin\System.Web.Helpers.xml
+D:\Long\DuAn_Vu\WebApiLogin\WebApiLogin\bin\System.Web.Mvc.xml
+D:\Long\DuAn_Vu\WebApiLogin\WebApiLogin\bin\System.Web.Razor.xml
+D:\Long\DuAn_Vu\WebApiLogin\WebApiLogin\bin\System.Web.WebPages.xml
+D:\Long\DuAn_Vu\WebApiLogin\WebApiLogin\bin\System.Web.WebPages.Deployment.xml
+D:\Long\DuAn_Vu\WebApiLogin\WebApiLogin\bin\System.Web.WebPages.Razor.xml
+D:\Long\DuAn_Vu\WebApiLogin\WebApiLogin\bin\Microsoft.Data.Edm.xml
+D:\Long\DuAn_Vu\WebApiLogin\WebApiLogin\bin\Microsoft.Data.OData.xml
+D:\Long\DuAn_Vu\WebApiLogin\WebApiLogin\bin\System.Spatial.xml
+D:\Long\DuAn_Vu\WebApiLogin\WebApiLogin\bin\de\Microsoft.Data.Edm.resources.dll
+D:\Long\DuAn_Vu\WebApiLogin\WebApiLogin\bin\es\Microsoft.Data.Edm.resources.dll
+D:\Long\DuAn_Vu\WebApiLogin\WebApiLogin\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\Long\DuAn_Vu\WebApiLogin\WebApiLogin\bin\it\Microsoft.Data.Edm.resources.dll
+D:\Long\DuAn_Vu\WebApiLogin\WebApiLogin\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\Long\DuAn_Vu\WebApiLogin\WebApiLogin\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\Long\DuAn_Vu\WebApiLogin\WebApiLogin\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\Long\DuAn_Vu\WebApiLogin\WebApiLogin\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Long\DuAn_Vu\WebApiLogin\WebApiLogin\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Long\DuAn_Vu\WebApiLogin\WebApiLogin\bin\de\Microsoft.Data.OData.resources.dll
+D:\Long\DuAn_Vu\WebApiLogin\WebApiLogin\bin\es\Microsoft.Data.OData.resources.dll
+D:\Long\DuAn_Vu\WebApiLogin\WebApiLogin\bin\fr\Microsoft.Data.OData.resources.dll
+D:\Long\DuAn_Vu\WebApiLogin\WebApiLogin\bin\it\Microsoft.Data.OData.resources.dll
+D:\Long\DuAn_Vu\WebApiLogin\WebApiLogin\bin\ja\Microsoft.Data.OData.resources.dll
+D:\Long\DuAn_Vu\WebApiLogin\WebApiLogin\bin\ko\Microsoft.Data.OData.resources.dll
+D:\Long\DuAn_Vu\WebApiLogin\WebApiLogin\bin\ru\Microsoft.Data.OData.resources.dll
+D:\Long\DuAn_Vu\WebApiLogin\WebApiLogin\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Long\DuAn_Vu\WebApiLogin\WebApiLogin\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Long\DuAn_Vu\WebApiLogin\WebApiLogin\bin\de\System.Spatial.resources.dll
+D:\Long\DuAn_Vu\WebApiLogin\WebApiLogin\bin\es\System.Spatial.resources.dll
+D:\Long\DuAn_Vu\WebApiLogin\WebApiLogin\bin\fr\System.Spatial.resources.dll
+D:\Long\DuAn_Vu\WebApiLogin\WebApiLogin\bin\it\System.Spatial.resources.dll
+D:\Long\DuAn_Vu\WebApiLogin\WebApiLogin\bin\ja\System.Spatial.resources.dll
+D:\Long\DuAn_Vu\WebApiLogin\WebApiLogin\bin\ko\System.Spatial.resources.dll
+D:\Long\DuAn_Vu\WebApiLogin\WebApiLogin\bin\ru\System.Spatial.resources.dll
+D:\Long\DuAn_Vu\WebApiLogin\WebApiLogin\bin\zh-Hans\System.Spatial.resources.dll
+D:\Long\DuAn_Vu\WebApiLogin\WebApiLogin\bin\zh-Hant\System.Spatial.resources.dll
+D:\Long\DuAn_Vu\WebApiLogin\WebApiLogin\obj\Debug\WebApiLogin.dll
+D:\Long\DuAn_Vu\WebApiLogin\WebApiLogin\obj\Debug\WebApiLogin.pdb
+D:\Long\DuAn_Vu\WebApiLogin\WebApiLogin\obj\Debug\WebApiLogin.csprojResolveAssemblyReference.cache
+F:\Work\07. Talks\WebApiLogin\WebApiLogin\bin\WebApiLogin.dll.config
+F:\Work\07. Talks\WebApiLogin\WebApiLogin\bin\WebApiLogin.dll
+F:\Work\07. Talks\WebApiLogin\WebApiLogin\bin\WebApiLogin.pdb
+F:\Work\07. Talks\WebApiLogin\WebApiLogin\bin\Antlr3.Runtime.dll
+F:\Work\07. Talks\WebApiLogin\WebApiLogin\bin\EntityFramework.dll
+F:\Work\07. Talks\WebApiLogin\WebApiLogin\bin\Microsoft.Data.Edm.dll
+F:\Work\07. Talks\WebApiLogin\WebApiLogin\bin\Microsoft.Data.OData.dll
+F:\Work\07. Talks\WebApiLogin\WebApiLogin\bin\Microsoft.Web.Infrastructure.dll
+F:\Work\07. Talks\WebApiLogin\WebApiLogin\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+F:\Work\07. Talks\WebApiLogin\WebApiLogin\bin\Newtonsoft.Json.dll
+F:\Work\07. Talks\WebApiLogin\WebApiLogin\bin\System.Net.Http.Formatting.dll
+F:\Work\07. Talks\WebApiLogin\WebApiLogin\bin\System.Spatial.dll
+F:\Work\07. Talks\WebApiLogin\WebApiLogin\bin\System.Web.Helpers.dll
+F:\Work\07. Talks\WebApiLogin\WebApiLogin\bin\System.Web.Http.dll
+F:\Work\07. Talks\WebApiLogin\WebApiLogin\bin\System.Web.Http.OData.dll
+F:\Work\07. Talks\WebApiLogin\WebApiLogin\bin\System.Web.Http.Tracing.dll
+F:\Work\07. Talks\WebApiLogin\WebApiLogin\bin\System.Web.Http.WebHost.dll
+F:\Work\07. Talks\WebApiLogin\WebApiLogin\bin\System.Web.Mvc.dll
+F:\Work\07. Talks\WebApiLogin\WebApiLogin\bin\System.Web.Optimization.dll
+F:\Work\07. Talks\WebApiLogin\WebApiLogin\bin\System.Web.Providers.dll
+F:\Work\07. Talks\WebApiLogin\WebApiLogin\bin\System.Web.Razor.dll
+F:\Work\07. Talks\WebApiLogin\WebApiLogin\bin\System.Web.WebPages.Deployment.dll
+F:\Work\07. Talks\WebApiLogin\WebApiLogin\bin\System.Web.WebPages.dll
+F:\Work\07. Talks\WebApiLogin\WebApiLogin\bin\System.Web.WebPages.Razor.dll
+F:\Work\07. Talks\WebApiLogin\WebApiLogin\bin\WebGrease.dll
+F:\Work\07. Talks\WebApiLogin\WebApiLogin\bin\Newtonsoft.Json.xml
+F:\Work\07. Talks\WebApiLogin\WebApiLogin\bin\System.Net.Http.Formatting.xml
+F:\Work\07. Talks\WebApiLogin\WebApiLogin\bin\System.Web.Http.xml
+F:\Work\07. Talks\WebApiLogin\WebApiLogin\bin\System.Web.Http.OData.xml
+F:\Work\07. Talks\WebApiLogin\WebApiLogin\bin\System.Web.Http.Tracing.xml
+F:\Work\07. Talks\WebApiLogin\WebApiLogin\bin\System.Web.Http.WebHost.xml
+F:\Work\07. Talks\WebApiLogin\WebApiLogin\bin\EntityFramework.xml
+F:\Work\07. Talks\WebApiLogin\WebApiLogin\bin\System.Web.Helpers.xml
+F:\Work\07. Talks\WebApiLogin\WebApiLogin\bin\System.Web.Mvc.xml
+F:\Work\07. Talks\WebApiLogin\WebApiLogin\bin\System.Web.Razor.xml
+F:\Work\07. Talks\WebApiLogin\WebApiLogin\bin\System.Web.WebPages.xml
+F:\Work\07. Talks\WebApiLogin\WebApiLogin\bin\System.Web.WebPages.Deployment.xml
+F:\Work\07. Talks\WebApiLogin\WebApiLogin\bin\System.Web.WebPages.Razor.xml
+F:\Work\07. Talks\WebApiLogin\WebApiLogin\bin\Microsoft.Data.Edm.xml
+F:\Work\07. Talks\WebApiLogin\WebApiLogin\bin\Microsoft.Data.OData.xml
+F:\Work\07. Talks\WebApiLogin\WebApiLogin\bin\System.Spatial.xml
+F:\Work\07. Talks\WebApiLogin\WebApiLogin\bin\de\Microsoft.Data.Edm.resources.dll
+F:\Work\07. Talks\WebApiLogin\WebApiLogin\bin\es\Microsoft.Data.Edm.resources.dll
+F:\Work\07. Talks\WebApiLogin\WebApiLogin\bin\fr\Microsoft.Data.Edm.resources.dll
+F:\Work\07. Talks\WebApiLogin\WebApiLogin\bin\it\Microsoft.Data.Edm.resources.dll
+F:\Work\07. Talks\WebApiLogin\WebApiLogin\bin\ja\Microsoft.Data.Edm.resources.dll
+F:\Work\07. Talks\WebApiLogin\WebApiLogin\bin\ko\Microsoft.Data.Edm.resources.dll
+F:\Work\07. Talks\WebApiLogin\WebApiLogin\bin\ru\Microsoft.Data.Edm.resources.dll
+F:\Work\07. Talks\WebApiLogin\WebApiLogin\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+F:\Work\07. Talks\WebApiLogin\WebApiLogin\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+F:\Work\07. Talks\WebApiLogin\WebApiLogin\bin\de\Microsoft.Data.OData.resources.dll
+F:\Work\07. Talks\WebApiLogin\WebApiLogin\bin\es\Microsoft.Data.OData.resources.dll
+F:\Work\07. Talks\WebApiLogin\WebApiLogin\bin\fr\Microsoft.Data.OData.resources.dll
+F:\Work\07. Talks\WebApiLogin\WebApiLogin\bin\it\Microsoft.Data.OData.resources.dll
+F:\Work\07. Talks\WebApiLogin\WebApiLogin\bin\ja\Microsoft.Data.OData.resources.dll
+F:\Work\07. Talks\WebApiLogin\WebApiLogin\bin\ko\Microsoft.Data.OData.resources.dll
+F:\Work\07. Talks\WebApiLogin\WebApiLogin\bin\ru\Microsoft.Data.OData.resources.dll
+F:\Work\07. Talks\WebApiLogin\WebApiLogin\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+F:\Work\07. Talks\WebApiLogin\WebApiLogin\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+F:\Work\07. Talks\WebApiLogin\WebApiLogin\bin\de\System.Spatial.resources.dll
+F:\Work\07. Talks\WebApiLogin\WebApiLogin\bin\es\System.Spatial.resources.dll
+F:\Work\07. Talks\WebApiLogin\WebApiLogin\bin\fr\System.Spatial.resources.dll
+F:\Work\07. Talks\WebApiLogin\WebApiLogin\bin\it\System.Spatial.resources.dll
+F:\Work\07. Talks\WebApiLogin\WebApiLogin\bin\ja\System.Spatial.resources.dll
+F:\Work\07. Talks\WebApiLogin\WebApiLogin\bin\ko\System.Spatial.resources.dll
+F:\Work\07. Talks\WebApiLogin\WebApiLogin\bin\ru\System.Spatial.resources.dll
+F:\Work\07. Talks\WebApiLogin\WebApiLogin\bin\zh-Hans\System.Spatial.resources.dll
+F:\Work\07. Talks\WebApiLogin\WebApiLogin\bin\zh-Hant\System.Spatial.resources.dll
+F:\Work\07. Talks\WebApiLogin\WebApiLogin\obj\Debug\WebApiLogin.csprojResolveAssemblyReference.cache
+F:\Work\07. Talks\WebApiLogin\WebApiLogin\obj\Debug\WebApiLogin.dll
+F:\Work\07. Talks\WebApiLogin\WebApiLogin\obj\Debug\WebApiLogin.pdb
